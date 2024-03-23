@@ -1,0 +1,6 @@
+train: ./NEU-DET/ImageSets/train/images
+val: ./NEU-DET/ImageSets/val/images
+test: ./NEU-DET/ImageSets/test/images
+
+nc: 6
+names: ['crazing', 'inclusion', 'patches', 'pitted_surface', 'rolled-in_scale', 'scratches']
